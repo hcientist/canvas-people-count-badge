@@ -2,8 +2,8 @@
 // @name         Add users count to people nav when on users page
 // @namespace    http://canvas.vt.edu/
 // @version      0.2
-// @description  enter something useful
-// @author       You
+// @description  https://github.com/thegreatmichael/canvas-people-count-badge
+// @author       Michael Stewart 
 // @match        https://canvas.vt.edu/courses/*/users
 // @grant        none
 // ==/UserScript==
